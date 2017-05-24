@@ -1,6 +1,6 @@
 # mdrip
 
-[![Build Status](https://travis-ci.org/monopole/mdrip.svg?branch=master)](https://travis-ci.org/monopole/mdrip)
+[![Build Status](https://travis-ci.org/dougbeal/mdrip.svg?branch=master)](https://travis-ci.org/dougbeal/mdrip)
 
 `mdrip` rips labeled command blocks from markdown files for execution.
 
